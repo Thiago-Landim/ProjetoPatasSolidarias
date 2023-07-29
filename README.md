@@ -5,7 +5,7 @@ A Adopet é uma inovadora empresa fictícia de adoção, que tem como objetivo c
  
 ![Tela Desktop](./img/layout.png)
 
-# 🌟 Visão Geral
+# Visão Geral🌟
 
 A página da Adopet oferece uma experiência simples e intuitiva para os usuários, permitindo que eles encontrem animais disponíveis para adoção, visualizem suas informações, e caso queiram, iniciem o processo de adoção.
 
@@ -24,4 +24,7 @@ O design da página foi cuidadosamente pensado para criar um ambiente acolhedor 
 Para iniciar o projeto, basta clicar neste [link demonstrativo](https://adopet-o1b2.vercel.app/). Ele irá levá-lo diretamente para a demonstração do projeto, onde você poderá explorar suas funcionalidades em detalhes.
 
 ## Autor do Projeto 👨‍💻
-[Linkedin](https://www.linkedin.com/in/gabriel-queiroz-7a1428212/)
+
+Este projeto foi desenvolvido por Gabriel Ferreira de Queiroz. Se deseja entrar em contato, [acesse o meu perfil no LinkedIn.](https://www.linkedin.com/in/gabriel-queiroz-7a1428212/)
+
+Agradeço por conferir este projeto e espero que tenha uma ótima experiência explorando a página do Adopet! 😄
